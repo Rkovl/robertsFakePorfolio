@@ -1,3 +1,4 @@
+
 /* --------------------Header--------------------- */
 #header{
     min-height: 8dvh;
@@ -82,3 +83,6 @@ img{
 	width: 1000px;
 
 }
+.skill-icon {
+    font-size: 5rem;
+  }
